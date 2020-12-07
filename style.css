@@ -1,0 +1,32 @@
+h1{
+    
+    color:red ;
+}
+
+html{
+    margin: 50px;
+    padding: 50px;
+}
+
+*{
+    color:blue ;
+}
+
+.Header{
+    background-color: #f81d9f;
+    display: flex;
+    justify-content: space-between;
+    font-family: Courier New;
+    border:solid;
+    border-radius: 50px;
+}
+
+/*.Footer{
+    background-color: darkgoldenrod;   
+}*/
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
